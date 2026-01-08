@@ -1,0 +1,6 @@
+# exdark.yaml
+train: ../datasets/ExDark/images/train
+val: ../datasets/ExDark/images/val
+
+nc: 12  # ExDark 有12类
+names: ['Bicycle', 'Boat', 'Bottle', 'Bus', 'Car', 'Cat', 'Chair', 'Cup', 'Dog', 'Motorbike', 'People', 'Table']
